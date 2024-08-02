@@ -10,7 +10,7 @@ Inspired by JSLegendDev, I created a 2D game to showcase my portfolio. It uses K
 
 ## Executing program
 
-Take the content of the dist folder and drag and drop it to your favorite static site hosting provider.
+Take the content of the dist folder and drag and drop it to your favorite static site hosting provider. If this does not work open the files in VSCode and input 'npm run dev' in terminal.
 
 ## Help
 
