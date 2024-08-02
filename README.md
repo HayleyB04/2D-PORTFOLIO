@@ -2,6 +2,8 @@
 
 This is a 2D game that showcases some of my programming skills and highlights from my portfolio.
 
+![map](https://github.com/user-attachments/assets/6f539486-9369-4f35-a795-8a1c50a5e6ad)
+
 ## Description
 
 Inspired by JSLegendDev, I created a 2D game to showcase my portfolio. It uses Kaboom.js which is a Javascript library that can be used to program games. I utilised my JavaScript knowledge, learnt how to use Tiled to create game maps, and explored camera scaling, animations and dialogue text.
