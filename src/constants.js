@@ -1,5 +1,7 @@
+# Ensure everything is scaled the same throughout
 export const scaleFactor = 4;
 
+# Ensure each text box contains correct dialogue
 export const dialogueData = {
     key: `In the future I want to expand my GitHub portfolio to showcase the skills I learn. Follow me if you would like to see more updates!.`,
     bunny: `Welcome to my virtual portfolio. Please explore to find out more about me and what I have been doing`,
